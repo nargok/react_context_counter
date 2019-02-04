@@ -10,7 +10,6 @@ const Counter = () => (
             <div>count: {count}</div>
               <button onClick={increment}>+1</button>
               <button onClick={decrement}>-1</button>
-            </div>
           </React.Fragment>
         )
       }
